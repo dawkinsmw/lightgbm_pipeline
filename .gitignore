@@ -52,3 +52,5 @@ Thumbs.db
 input/
 output/
 
+# Jupyter
+*.ipynb_checkpoints
